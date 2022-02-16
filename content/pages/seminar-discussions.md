@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Seminar Discussions
 uid: 9a2e330c-d3ed-697e-de12-50f454f3a095
 ---
