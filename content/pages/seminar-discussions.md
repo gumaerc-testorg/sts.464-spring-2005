@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides notes from course seminar discussions.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Seminar Discussions
@@ -24,7 +25,7 @@ Topics
 1
 {{< tdclose >}}
 {{< tdopen >}}
-What is "Technology" in the Contemporary World? ([PDF]({{< baseurl >}}/resources/notes_050201_1))
+What is "Technology" in the Contemporary World? ({{% resource_link e49584dd-9d11-e203-cf1a-e195505b8fa3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +34,7 @@ What is "Technology" in the Contemporary World? ([PDF]({{< baseurl >}}/resources
 2
 {{< tdclose >}}
 {{< tdopen >}}
-The Context of Classical and Early Modern Philosophy ([PDF]({{< baseurl >}}/resources/notes_050208_2))
+The Context of Classical and Early Modern Philosophy ({{% resource_link 7b8c6c1a-1df0-2556-fce5-ae68aae2b401 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +43,7 @@ The Context of Classical and Early Modern Philosophy ([PDF]({{< baseurl >}}/reso
 3
 {{< tdclose >}}
 {{< tdopen >}}
-The Enlightenment and the Belief in Progress ([PDF]({{< baseurl >}}/resources/notes_050215_3))
+The Enlightenment and the Belief in Progress ({{% resource_link 8e4384f1-3e79-0085-a49b-a90ba63c8c70 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +61,7 @@ The Romantic Reaction
 5
 {{< tdclose >}}
 {{< tdopen >}}
-The Novel ([PDF]({{< baseurl >}}/resources/notes_050308_5))
+The Novel ({{% resource_link 46bc568f-0b0f-d8fb-527f-600e02fc2224 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +70,7 @@ The Novel ([PDF]({{< baseurl >}}/resources/notes_050308_5))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-The Marxist Critique of Capitalism ([PDF]({{< baseurl >}}/resources/notes_050315_6))
+The Marxist Critique of Capitalism ({{% resource_link 94e9421d-b702-a577-5306-a74762711053 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +79,7 @@ The Marxist Critique of Capitalism ([PDF]({{< baseurl >}}/resources/notes_050315
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Culture: High v. Low; Traditional v. Democratic ([PDF]({{< baseurl >}}/resources/notes_050329_7))
+Culture: High v. Low; Traditional v. Democratic ({{% resource_link 97cedef8-5d7f-b662-5a67-6a213f56e975 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +88,7 @@ Culture: High v. Low; Traditional v. Democratic ([PDF]({{< baseurl >}}/resources
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Systems and Networks ([PDF]({{< baseurl >}}/resources/notes_050405_8))
+Systems and Networks ({{% resource_link a62e22d7-d357-095c-fcbf-9bb08283890f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +97,7 @@ Systems and Networks ([PDF]({{< baseurl >}}/resources/notes_050405_8))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Modernism: Socio-Economic and Aesthetic ([PDF]({{< baseurl >}}/resources/notes_050412_9))
+Modernism: Socio-Economic and Aesthetic ({{% resource_link 052dd88c-52ba-37aa-7b20-e0f83cd4817f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +106,7 @@ Modernism: Socio-Economic and Aesthetic ([PDF]({{< baseurl >}}/resources/notes_0
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Engineering: Mentality, Vocation, Institution ([PDF]({{< baseurl >}}/resources/notes_050426_10))
+Engineering: Mentality, Vocation, Institution ({{% resource_link b6e31901-4773-1869-75ed-aad596447c7a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +115,7 @@ Engineering: Mentality, Vocation, Institution ([PDF]({{< baseurl >}}/resources/n
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Ecological Crisis ([PDF]({{< baseurl >}}/resources/notes_050503_11))
+Ecological Crisis ({{% resource_link 69062daf-e77a-144e-d95d-154a9206a0e5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +124,7 @@ Ecological Crisis ([PDF]({{< baseurl >}}/resources/notes_050503_11))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-What Made "Technology" Necessary? ([PDF]({{< baseurl >}}/resources/notes_050510_12))
+What Made "Technology" Necessary? ({{% resource_link eaf0e80d-a9a1-fa71-170f-2dacc0f1fa96 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
