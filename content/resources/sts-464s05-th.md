@@ -13,10 +13,10 @@ image_metadata:
   image-alt: A black and white photograph of Jim Tillma in the electrical engineering
     laboratory. University of Nebraska, Lincoln.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: sts-464s05-th.jpg
 uid: c9b010a7-9066-62ef-9e06-47ec65f26092
 ---
 New image Upload
-
