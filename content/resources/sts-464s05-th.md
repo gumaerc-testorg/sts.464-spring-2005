@@ -6,8 +6,8 @@ file_size: 9269
 file_type: image/jpeg
 image_metadata:
   caption: "Jim Tillma in the electrical engineering laboratory, University of Nebraska,\
-    \ Lincoln.\_ (Photo courtesy of John Vachon.\_{{% resource_link \"f26551fa-0085-4dfe-8be2-1d4079b6e2ed\"\
-    \ \"Library of Congress, Prints & Photographs Division\" %}}, Farm Security Administration\
+    \ Lincoln.\_ (Photo courtesy of John Vachon.\_[Library of Congress, Prints & Photographs\
+    \ Division](http://lcweb.loc.gov/rr/print/pphome.html), Farm Security Administration\
     \ - Office of War Information Photograph Collection, \\[reproduction number:\_\
     \ LC-USW3- 003058-D\\].)"
   credit: ''
