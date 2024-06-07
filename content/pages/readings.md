@@ -283,7 +283,7 @@ Systems and Networks
 {{< tdopen >}}
 
 
-{{% resource_link "a44dc76e-04a2-46e5-9b91-db22b80bd46c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} \[\*\*\] Hughes, T. P. "The Evolution of Large Technological Systems." In {{% resource_link "a44dc76e-04a2-46e5-9b91-db22b80bd46c" "_The Social Construction of Technological Systems_" %}}. Edited by Wiebe E. Bijker, Thomas P. Hughes, and Trevor J. Pinch. Cambridge, MA: MIT Press, 1987. ISBN: 9780262022620.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262022620) \[\*\*\] Hughes, T. P. "The Evolution of Large Technological Systems." In [_The Social Construction of Technological Systems_](https://mitpress.mit.edu/9780262022620). Edited by Wiebe E. Bijker, Thomas P. Hughes, and Trevor J. Pinch. Cambridge, MA: MIT Press, 1987. ISBN: 9780262022620.
 
 \[\*\*\] ———. _Networks of Power: Electrification in Western Society, 1880-1930_. Baltimore, MD: Johns Hopkins University Press, 1993. ISBN: 9780801846144.
 
@@ -430,7 +430,7 @@ Adams, Henry. _The Education of Henry Adams_. Riverside ed. Annotated, edited by
 
 Arnold, Matthew. _Culture and Anarchy_. Whitefish, MT: Kessigner Publishing Company, 2004. ISBN: 1419214683. (Reprint)
 
-Arnold, Matthew. "{{% resource_link "d80123fa-4c79-4783-a9b5-64a05825619d" "Dover Beach" %}}."
+Arnold, Matthew. "[Dover Beach](http://www.bartleby.com/42/705.html)."
 
 Cronon, William. "The Trouble with Wilderness, or, Getting Back to the Wrong Nature."
 
@@ -438,13 +438,13 @@ DeLillo, Don. _White Noise_. New York, NY: Penguin, 1999. ISBN: 9780140283303.
 
 Dickens, Charles. _Hard Times, Norton Critical Edition_. New York, NY: W. W. Norton & Co., 2000. ISBN: 9780393975604.
 
-{{% resource_link "e8cba034-a2eb-4466-bb4e-1b2a83eb4575" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Heilbroner, Robert L. "Do Machines Make History?" In {{% resource_link "e8cba034-a2eb-4466-bb4e-1b2a83eb4575" "_Does Technology Drive History? The Dilemma of Technological Determinism_" %}}. Edited by Merritt Roe Smith, and Leo Marx. Cambridge, MA: MIT Press, 1994, pp. 53-65. ISBN: 9780262691673.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262691673) Heilbroner, Robert L. "Do Machines Make History?" In [_Does Technology Drive History? The Dilemma of Technological Determinism_](https://mitpress.mit.edu/9780262691673). Edited by Merritt Roe Smith, and Leo Marx. Cambridge, MA: MIT Press, 1994, pp. 53-65. ISBN: 9780262691673.
 
 Hersey, John. _Hiroshima_. New York, NY: Bantam Books, 1984. ISBN: 9780553247923.
 
 Hughes, Thomas P. _Networks of Power: Electrification in Western Society, 1880-1930_. Baltimore, MD: Johns Hopkins University Press, 1993, p. 197. ISBN: 9780801846144.
 
-{{% resource_link "a44dc76e-04a2-46e5-9b91-db22b80bd46c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. "The Evolution of Large Technological Systems." In {{% resource_link "a44dc76e-04a2-46e5-9b91-db22b80bd46c" "_The Social Construction of Technological Systems: New Directions in the Sociology and History of Technology_" %}}. Edited by Wiebe E. Bijker, Thomas P. Hughes, and Trevor J. Pinch. Cambridge, MA: MIT Press, 1987. ISBN: 9780262022620.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262022620) ———. "The Evolution of Large Technological Systems." In [_The Social Construction of Technological Systems: New Directions in the Sociology and History of Technology_](https://mitpress.mit.edu/9780262022620). Edited by Wiebe E. Bijker, Thomas P. Hughes, and Trevor J. Pinch. Cambridge, MA: MIT Press, 1987. ISBN: 9780262022620.
 
 Kateb, George. "Technology and Philosophy." _Social Research_ 64, no. 3 (Fall 1997): 1225-1246.
 
@@ -452,7 +452,7 @@ Marx, Leo. _The Machine in the Garden: Technology and the Pastoral Idea in Ameri
 
 Menand, Louis. "Gross Points: Is the blockbuster the end of cinema?" _The New Yorker_ (February 7, 2005): 82-87.
 
-Mindell, David. "Bodies, Ideas, and Dynamics: Historical Perspectives on Systems Thinking in Engineering." Massachusetts Institute of Technology Engineering Systems Division Working Paper Series, ESD-WP-2003-01.23, ESD Internal Symposium, May 2002. ({{% resource_link "50564d09-cced-431a-a6c8-3c0fa8bef488" "PDF" %}})
+Mindell, David. "Bodies, Ideas, and Dynamics: Historical Perspectives on Systems Thinking in Engineering." Massachusetts Institute of Technology Engineering Systems Division Working Paper Series, ESD-WP-2003-01.23, ESD Internal Symposium, May 2002. ([PDF](https://esd.mit.edu/WPS/internal-symposium/esd-wp-2003-01.23.pdf))
 
 Noble, David. _America by Design: Science, Technology, and the Rise of Corporate Capitalism_. New York, NY: Alfred A. Knopf, 1977, Foreward, Introduction, and chapters 1-4. ISBN: 9780394499833.
 
@@ -515,7 +515,7 @@ Dreiser, T. _Sister Carrie_. New York, NY: Dover Publications, 2004. ISBN: 97804
 
 Eagleton, T. "The Rise of Literature." In _Marxism and Literary Criticism_. Berkeley, CA: University of California Press, 1976. ISBN: 9780520032439.
 
-Emerson, R. W. "The American Scholar," and "The Young American." Full-text {{% resource_link "4b7ae6ea-d78e-467c-b55b-eda5f7f43512" "online" %}} .
+Emerson, R. W. "The American Scholar," and "The Young American." Full-text [online](http://www.vcu.edu/engweb/transcendentalism/authors/emerson/essays/index.html) .
 
 Emerson, R. W. "Works and Days." In _Society and Solitude_. Amsterdam, The Netherlands: Fredonia Books, 2001. ISBN: 9781589634626.
 
@@ -573,9 +573,9 @@ Mumford, L. Chapters 1-2, and 14-18 in _The City in History_. San Diego, CA: Har
 
 Norris, F. _The Octopus_. New York, NY: Penguin Group, 1994. ISBN: 9780140187700.
 
-{{% resource_link "420c9f56-0d43-4174-89f4-fbe337ced668" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Nye, D. {{% resource_link "420c9f56-0d43-4174-89f4-fbe337ced668" "_American Technological Sublime_" %}} . Cambridge, MA: MIT Press, 1996. ISBN: 9780262640343.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262640343) Nye, D. [_American Technological Sublime_](https://mitpress.mit.edu/9780262640343) . Cambridge, MA: MIT Press, 1996. ISBN: 9780262640343.
 
-{{% resource_link "34cd9166-62cb-4c2c-bb21-b405c677c889" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Nye, D. {{% resource_link "34cd9166-62cb-4c2c-bb21-b405c677c889" "_Electrifying America_" %}} . Cambridge, MA: MIT Press, 1992. ISBN: 9780262640305.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262640305) Nye, D. [_Electrifying America_](https://mitpress.mit.edu/9780262640305) . Cambridge, MA: MIT Press, 1992. ISBN: 9780262640305.
 
 Oldenziel, R. "Unsettled Discourses." In _Making Technology Masculine_. Amsterdam, The Netherlands: Amsterdam University Press, 2004, pp. 19-50. ISBN: 9789053563816.
 
@@ -601,6 +601,6 @@ Williams, R. _Marxism and Literature_. New York, NY: Oxford University Press, 19
 
 Williams, R. _The Country and the City_. New York, NY: Oxford University Press, 1975. ISBN: 9780195198102.
 
-{{% resource_link "ce697149-3274-452d-9152-6df31196d14d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Williams, R. {{% resource_link "ce697149-3274-452d-9152-6df31196d14d" "_Notes on the Underground_" %}} . Cambridge, MA: MIT Press, 1992. ISBN: 9780262730983.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262730983) Williams, R. [_Notes on the Underground_](https://mitpress.mit.edu/9780262730983) . Cambridge, MA: MIT Press, 1992. ISBN: 9780262730983.
 
 Wordsworth, W. "Tintern Abbey" and Preface to _Lyrical Ballads_ . New York, NY: Routledge, 1991. ISBN: 9780415063883.
